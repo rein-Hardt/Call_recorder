@@ -1,5 +1,5 @@
 # Call_recorder
-Call recorder. Audio will be saved at CallRec </br>
+Call recorder. Audio will be saved at /SDCard/CallRec </br>
 Known issues:</br>
 1. When the service started, the ring runs badly.</br>
 2. When making an outgoing call it started recording after you pressed dial. NOT AFTER ANSWERED THE PHONE!!</br>
